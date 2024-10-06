@@ -1,0 +1,31 @@
+{
+    "nome": "luca",
+    "cognome":"verde",
+    "data_di_nascita" : {
+        "anno": "2007",
+        "mese":"settembre",
+        "giorno":"20",
+    },
+    "telefono": "+393470181446",
+    "indirizzo_posta_elettronica":"lucgreen2009@gmail.com",
+    "indirizzo_Pec":"nul",
+    "incarrico_attuale":"studente",
+    "date":[
+        "2021",
+        "2026",
+    ],
+    "nome_istituto":"Galileo_Ferraris",
+    "qualifica_conseguita":"diploma itis infomatico",
+    "esperienze_lavorativa":"null",
+    "madrelingua":"italiano",
+    "altre_lingue":{
+        "inglese":"buono",
+        "francese":"elementare",
+        "spagnolo":"elementare",
+    },
+    "capacità":{
+        "lettura":"molto buono",
+        "scrittura":"eccellente",
+        "espressione_orale":"buona"
+    },
+}   
